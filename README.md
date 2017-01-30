@@ -1,3 +1,8 @@
 # newNEW 
 hhhhhhssssssssssssss
-kjdosajfidopashfpasd
+<<<<<<< HEAD
+
+
+adadad
+
+>>>>>>> master
